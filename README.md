@@ -1,7 +1,8 @@
-# Format Text
+# Text Format
 
 _________________________________________________________________________________________________________________________________
-
+ ro - description 
+ 
 * Pentru center am folosit cea mai lunga linie din fisier si am adaugat spatii la inceputul
 liniilor mai mici ca sa le centrez. Am aflat diferenta dintre (lungimea randului maxim si lungimea randului 
 curent) / 2  si am mutat textul la dreapta  cu acea diferenta /2 si completez locul liber cu spatii. 
